@@ -5,4 +5,4 @@ draft: false
 ---
 
 ## Podcast home: 
-[The Dangerous reading podcast](https://rumble.com/c/c-2464730)
+[The Dangerous Reading podcast](https://rumble.com/c/c-2464730)

@@ -1,6 +1,6 @@
 baseURL = 'http://dangerousreads.com/'
 languageCode = 'en-us'
-title = 'Dangerous reading'
+title = 'Dangerous reads'
 theme = 'ananke'
 
 DefaultContentLanguage = "en"
